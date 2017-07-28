@@ -2,7 +2,7 @@
     $ip = $_SERVER['REMOTE_ADDR'];
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
     <title>IP-Adresse</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
