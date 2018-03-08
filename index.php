@@ -1,5 +1,5 @@
 <?php
-    $ip = $_SERVER['REMOTE_ADDR'];
+    $ip = $_SERVER['HTTP_CF_CONNECTING_IP'];
 ?>
 <!DOCTYPE html>
 <html lang="de">
